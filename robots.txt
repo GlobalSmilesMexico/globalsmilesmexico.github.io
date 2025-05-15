@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////home/hp/Documentos/Publii/sites/gobalsmilemexico/preview/sitemap.xml
